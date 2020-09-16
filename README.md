@@ -1,4 +1,4 @@
-# Custom NavigationTitle for SwiftUI
+# Custom Navigation Title for SwiftUI
 
 don't forget use
 
